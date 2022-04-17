@@ -7,7 +7,7 @@ const notesArray = [
   {
     key: 1,
     title: "another title ",
-    content: " another content of notes"
+    content: " another content of notes "
   },
   {
     key: 2,
