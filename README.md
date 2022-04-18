@@ -1,2 +1,2 @@
 # Keeper-app
-Created with CodeSandbox
+A simple note taking website.
